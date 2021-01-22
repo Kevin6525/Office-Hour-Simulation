@@ -9,7 +9,7 @@
 #include <stdlib.h>
 #include <fstream>
 #include <string>
-#include "HW5Pt3.h"
+#include "officeHour.h"
 
 
 using namespace std;
